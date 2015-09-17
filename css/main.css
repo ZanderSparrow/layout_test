@@ -21,5 +21,11 @@ header h1 {
 	float: left;
 }
 
+#col1 a {
+	display: block;
+	padding: 10px;
+}
+
+
 
 
