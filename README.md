@@ -10,6 +10,12 @@ _This second code review is a demonstration of my grasp of more advanced CSS and
 
 ## Setup
 
+* _The Option links at the top of the page are live links to my other layouts:_ 
+	1. Option 1 is the original layout and the index page.
+	2. Option 2 is a pretty one
+	3. Option 3 is one with bootstrap
+	4. Option 4 is one with a bootstrap theme
+	5. Option 5 is a responsive one.
 * _Please visit [my gh_pages site](http://zandersparrow.github.io/layout_test/ "gh-pages site for layout_test repository")_
 * _The code is available in my layout_test repository on GitHub, handle ZanderSparrow_
 
