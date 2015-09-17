@@ -1,6 +1,7 @@
 body {
 	margin: 0 20px 0;
 	background-color: #999;
+	max-height: 650px;
 }
 
 header {
@@ -19,18 +20,19 @@ header .nav {
 	padding: 5px 0 5px 5px;
 }
 
+
 #col1 {
 	background-color: #66e066;
 	max-width: 67%;
 	float: left;
-	min-height: 575px;
+	min-height: 650px;
 }
 
 #col2 {
 	background-color: #99f;
 	max-width: 33%;
 	float: left;
-	min-height: 575px;
+	min-height: 650px;
 
 }
 
