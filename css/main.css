@@ -45,4 +45,16 @@ h2, p {
 	padding-left: 5px;
 }
 
+/*Bootstrap styling*/
+.span8 {
+	background-color: #66e066;
+	float: left;
+}
+
+
+.span4 {
+	background-color: #99f;
+	float: left;
+}
+
 
