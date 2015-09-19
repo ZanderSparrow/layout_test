@@ -15,8 +15,16 @@ header {
 	font-size: 1.25em;
 }
 
-h1 {
+header h1 {
 	font-family: 'Montserrat', sans-serif;
+	background-image: url("../img/measures.jpg");
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 auto 0;
+	color: #ccc;
+	text-shadow: 2px 2px #000;
+	border-radius: 5%;
 }
 
 h2 {
@@ -26,6 +34,10 @@ h2 {
 	line-height: 3em;
 }
 
+#col1 {
+	background: #eee;
+}
+
 #col1 p, #col2 p {
 	padding: 25px;
 
@@ -33,4 +45,8 @@ h2 {
 
 #col1 a {
 	text-align: center;
+}
+
+#col2 {
+	
 }
