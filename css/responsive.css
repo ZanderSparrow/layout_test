@@ -1,0 +1,73 @@
+body {
+	margin: 0 20px 0;
+	background-color: #999;
+	max-height: 650px;
+}
+
+header {
+	background-color: #f99;
+}
+
+header h1 {
+	padding-top: 20px;
+	padding-left: 5px;
+	background-color: #ddd;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+header .nav {
+	padding: 5px 0 5px 5px;
+}
+
+@media(min-width: 800px) {
+	#col1 {
+		background-color: #66e066;
+		max-width: 67%;
+		float: left;
+		min-height: 650px;
+	}
+
+	#col2 {
+		background-color: #99f;
+		max-width: 33%;
+		float: left;
+		min-height: 650px;
+
+	}
+}
+
+@media(max-width: 799px){
+	#col1 {
+	background-color: #66e066;
+}
+
+#col2 {
+	background-color: #99f;
+
+}
+
+}
+
+#col1 a {
+	display: block;
+	padding: 5px;
+}
+
+h2, p {
+	padding-left: 5px;
+}
+
+/*Bootstrap styling*/
+.span8 {
+	background-color: #66e066;
+	float: left;
+}
+
+
+.span4 {
+	background-color: #99f;
+	float: left;
+}
+
+
